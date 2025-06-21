@@ -28,4 +28,17 @@ Este projeto foi uma ótima oportunidade para praticar:
     * Ordenar resultados.
     * Trabalhar com relacionamentos entre tabelas (livros e autores).
 
-O LiterAlura é um projeto prático que demonstra como integrar APIs e gerenciar dados em uma aplicação Spring Boot.
+**O LiterAlura é um projeto prático que demonstra como integrar APIs e gerenciar dados em uma aplicação Spring Boot.**
+
+---
+
+## 🔩 Tecnologias Utilizadas
+
+* Linguagem: Java
+* Framework: Spring Boot
+* Gerenciador de Projetos: Maven
+* Banco de Dados: PostgreSQL
+* Persistência de Dados: Spring Data JPA (com Hibernate)
+* API Externa: Gutendex (API gratuita com dados de mais de 70 mil livros)
+* Ambiente de Desenvolvimento: IntelliJ IDEA
+  
